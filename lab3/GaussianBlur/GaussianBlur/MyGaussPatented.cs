@@ -76,7 +76,7 @@ namespace GaussianBlur
                         int jj = 0;
                         for(int c =  j - gaussMatrixSize / 2; c < j + gaussMatrixSize/2; c++)
                         {
-                            value += img[i][j] * gaussMatrix[ii][jj];
+                            value += img[k][c] * gaussMatrix[ii][jj];
                             jj++;
                         }
                         ii++;
