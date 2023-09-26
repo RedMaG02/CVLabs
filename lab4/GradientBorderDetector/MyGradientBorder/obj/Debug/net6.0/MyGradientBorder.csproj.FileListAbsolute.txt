@@ -1,0 +1,12 @@
+J:\CVLabs\lab4\GradientBorderDetector\MyGradientBorder\bin\Debug\net6.0\MyGradientBorder.deps.json
+J:\CVLabs\lab4\GradientBorderDetector\MyGradientBorder\bin\Debug\net6.0\MyGradientBorder.dll
+J:\CVLabs\lab4\GradientBorderDetector\MyGradientBorder\bin\Debug\net6.0\MyGradientBorder.pdb
+J:\CVLabs\lab4\GradientBorderDetector\MyGradientBorder\obj\Debug\net6.0\MyGradientBorder.csproj.AssemblyReference.cache
+J:\CVLabs\lab4\GradientBorderDetector\MyGradientBorder\obj\Debug\net6.0\MyGradientBorder.GeneratedMSBuildEditorConfig.editorconfig
+J:\CVLabs\lab4\GradientBorderDetector\MyGradientBorder\obj\Debug\net6.0\MyGradientBorder.AssemblyInfoInputs.cache
+J:\CVLabs\lab4\GradientBorderDetector\MyGradientBorder\obj\Debug\net6.0\MyGradientBorder.AssemblyInfo.cs
+J:\CVLabs\lab4\GradientBorderDetector\MyGradientBorder\obj\Debug\net6.0\MyGradientBorder.csproj.CoreCompileInputs.cache
+J:\CVLabs\lab4\GradientBorderDetector\MyGradientBorder\obj\Debug\net6.0\MyGradientBorder.dll
+J:\CVLabs\lab4\GradientBorderDetector\MyGradientBorder\obj\Debug\net6.0\refint\MyGradientBorder.dll
+J:\CVLabs\lab4\GradientBorderDetector\MyGradientBorder\obj\Debug\net6.0\MyGradientBorder.pdb
+J:\CVLabs\lab4\GradientBorderDetector\MyGradientBorder\obj\Debug\net6.0\ref\MyGradientBorder.dll

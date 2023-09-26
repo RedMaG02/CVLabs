@@ -34,7 +34,7 @@ def brd():
     #resized_image = cv2.resize(hsv_image, (width * 1, heigth * 1))
 
     border_img_list = grad.destroy_nonmax(gradient_angle_matrix, gradient_length_matrix)
-    border_img_list2 = grad.double_filtering(border_img_list, gradient_length_matrix, 20, 8) #Для вумен 30 10 ок коты 20 8
+    border_img_list2 = grad.double_filtering(border_img_list, gradient_length_matrix, 30, 10) #Для вумен 30 10 ок коты 20 8 / 30 10
     numpy_array_border_img = np.array(border_img_list2, dtype=np.uint8)
     border_img = cv2.cvtColor(numpy_array_border_img, cv2.COLOR_GRAY2BGR)
 

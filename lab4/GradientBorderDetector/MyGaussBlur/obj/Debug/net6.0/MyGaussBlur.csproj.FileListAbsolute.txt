@@ -1,0 +1,12 @@
+J:\CVLabs\lab4\GradientBorderDetector\MyGaussBlur\bin\Debug\net6.0\MyGaussBlur.deps.json
+J:\CVLabs\lab4\GradientBorderDetector\MyGaussBlur\bin\Debug\net6.0\MyGaussBlur.dll
+J:\CVLabs\lab4\GradientBorderDetector\MyGaussBlur\bin\Debug\net6.0\MyGaussBlur.pdb
+J:\CVLabs\lab4\GradientBorderDetector\MyGaussBlur\obj\Debug\net6.0\MyGaussBlur.csproj.AssemblyReference.cache
+J:\CVLabs\lab4\GradientBorderDetector\MyGaussBlur\obj\Debug\net6.0\MyGaussBlur.GeneratedMSBuildEditorConfig.editorconfig
+J:\CVLabs\lab4\GradientBorderDetector\MyGaussBlur\obj\Debug\net6.0\MyGaussBlur.AssemblyInfoInputs.cache
+J:\CVLabs\lab4\GradientBorderDetector\MyGaussBlur\obj\Debug\net6.0\MyGaussBlur.AssemblyInfo.cs
+J:\CVLabs\lab4\GradientBorderDetector\MyGaussBlur\obj\Debug\net6.0\MyGaussBlur.csproj.CoreCompileInputs.cache
+J:\CVLabs\lab4\GradientBorderDetector\MyGaussBlur\obj\Debug\net6.0\MyGaussBlur.dll
+J:\CVLabs\lab4\GradientBorderDetector\MyGaussBlur\obj\Debug\net6.0\refint\MyGaussBlur.dll
+J:\CVLabs\lab4\GradientBorderDetector\MyGaussBlur\obj\Debug\net6.0\MyGaussBlur.pdb
+J:\CVLabs\lab4\GradientBorderDetector\MyGaussBlur\obj\Debug\net6.0\ref\MyGaussBlur.dll
