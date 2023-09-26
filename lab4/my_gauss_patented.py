@@ -47,7 +47,7 @@ def gaussian_blur(img, gauss_matrix_size, sigma):
                     value += img[k][c] * gauss_matrix[ii][jj]
                     jj += 1
                 ii += 1
-            if(value > 255):
+            if (value > 255):
                 value = 255
             blur_matrix[i][j] = value
 
