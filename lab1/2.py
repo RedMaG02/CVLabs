@@ -13,7 +13,7 @@ img2 = cv2.imread(r"sample.jpg", imgFlag2)
 img3 = cv2.imread(r"sample.bmp", imgFlag3)
 
 cv2.namedWindow("Img show", windowFlag3)
-cv2.imshow("Img show", img3)
+cv2.imshow("Img show", img1)
 cv2.waitKey(0)
 
 cv2.destroyAllWindows()

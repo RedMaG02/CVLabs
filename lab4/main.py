@@ -4,7 +4,7 @@ import MyGradientBorder as grad
 import my_gauss_patented as gauss
 
 def brd():
-    img1 = cv2.imread(r"image3.png")
+    img1 = cv2.imread(r"image2.png")
     img_copy = img1.copy()
     grey_copy = cv2.cvtColor(img_copy, cv2.COLOR_BGR2GRAY)
     img_copy_list = grey_copy.tolist()
