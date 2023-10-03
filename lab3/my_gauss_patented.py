@@ -7,19 +7,19 @@ def my_gauss_func(x, y, size, sigma):
 
 def matrix_norm(matrix):
     sum = 0
-    for i in range(0, len(matrix)-1):
+    for i in range(0, len(matrix)):
         for j in range(0, len(matrix[i])):
             sum += matrix[i][j]
 
-    for i in range(0, len(matrix)-1):
+    for i in range(0, len(matrix)):
         for j in range(0, len(matrix[i])):
             matrix[i][j] = matrix[i][j]/sum
 
 def fill_gauss_matrix(size, sigma):
     matrix = []
-    for i in range(0, size - 1):
+    for i in range(0, size):
         matrix.append([])
-        for j in range(0, size - 1):
+        for j in range(0, size):
             matrix[i].append(my_gauss_func(i, j, size, sigma))
     matrix_norm(matrix)
 
@@ -41,9 +41,9 @@ def gaussian_blur(img, gauss_matrix_size, sigma):
         for j in range(y_start, y_end):
             value = 0
             ii = 0
-            for k in range(i - gauss_matrix_size // 2, i + gauss_matrix_size // 2):
+            for k in range(i - gauss_matrix_size // 2, i + gauss_matrix_size // 2 + 1):
                 jj = 0
-                for c in range(j - gauss_matrix_size // 2, j + gauss_matrix_size // 2):
+                for c in range(j - gauss_matrix_size // 2, j + gauss_matrix_size // 2 + 1):
                     value += img[k][c] * gauss_matrix[ii][jj]
                     jj += 1
                 ii += 1

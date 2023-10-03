@@ -9,9 +9,9 @@ def fifty_shades_of_gray():
     #height, width = grey_copy.shape
     img_copy_list = grey_copy.tolist()
 
-    blurred_image_CV = cv2.GaussianBlur(grey_copy, (21, 21), 3)
+    blurred_image_CV = cv2.GaussianBlur(grey_copy, (21, 21), 15)
 
-    blur_matrix = gauss.gaussian_blur(img_copy_list, 21, 3)
+    blur_matrix = gauss.gaussian_blur(img_copy_list, 21, 15)
     numpy_array = np.array(blur_matrix, dtype=np.uint8)
     blur_image = cv2.cvtColor(numpy_array, cv2.COLOR_GRAY2BGR)
 
